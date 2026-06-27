@@ -1,5 +1,7 @@
 # AWS Route 53 Console Clone
 
+[🚀 Live Demo](https://aws-route53-tau.vercel.app)
+
 A clone of the AWS Route 53 Console built with Next.js, FastAPI, and SQLite. It supports full CRUD operations on DNS Hosted Zones and records with routing policies (Simple, Weighted, Latency, Failover), search, pagination, dark/light modes, keyboard shortcuts, bulk operations, and BIND zone file import/export.
 
 ---
