@@ -1,7 +1,7 @@
 # AWS Route 53 Console Clone
 
 ### 🚀 Try the Live Demo →
-[![Live Demo](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-aws--route53--tau.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white&color=0070f3)](https://aws-route53-tau.vercel.app) [![Backend](https://img.shields.io/badge/BACKEND-RENDER-purple?style=for-the-badge&logo=render&logoColor=white&color=4608b4)](https://aws-route53.onrender.com)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-aws--route53--tau.vercel.app%2Fhosted--zones-blue?style=for-the-badge&logo=vercel&logoColor=white&color=0070f3)](https://aws-route53-tau.vercel.app/hosted-zones) [![Backend](https://img.shields.io/badge/BACKEND-RENDER-purple?style=for-the-badge&logo=render&logoColor=white&color=4608b4)](https://aws-route53.onrender.com)
 
 **Default Credentials:**
 - **Username:** `admin`
