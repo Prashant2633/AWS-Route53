@@ -1,0 +1,22 @@
+# Frontend
+node_modules/
+.next/
+out/
+
+# Backend Virtual Environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite Database
+backend/route53.db
+
+# Operating System files
+.DS_Store
+Thumbs.db
