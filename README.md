@@ -1,10 +1,15 @@
 # AWS Route 53 Console Clone
 
-[🚀 Live Demo](https://aws-route53-tau.vercel.app)
+### 🚀 Try the Live Demo →
+[![Live Demo](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-aws--route53--tau.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white&color=0070f3)](https://aws-route53-tau.vercel.app) [![Backend](https://img.shields.io/badge/BACKEND-RENDER-purple?style=for-the-badge&logo=render&logoColor=white&color=4608b4)](https://aws-route53.onrender.com)
 
-A clone of the AWS Route 53 Console built with Next.js, FastAPI, and SQLite. It supports full CRUD operations on DNS Hosted Zones and records with routing policies (Simple, Weighted, Latency, Failover), search, pagination, dark/light modes, keyboard shortcuts, bulk operations, and BIND zone file import/export.
+**Default Credentials:**
+- **Username:** `admin`
+- **Password:** `password123`
 
 ---
+
+A clone of the AWS Route 53 Console built with Next.js, FastAPI, and SQLite. It supports full CRUD operations on DNS Hosted Zones and records with routing policies (Simple, Weighted, Latency, Failover), search, pagination, dark/light modes, keyboard shortcuts, bulk operations, and BIND zone file import/export.
 
 ## Project Structure
 
